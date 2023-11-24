@@ -53,3 +53,8 @@ color:black;
     width: 400px; height: 100px; font-size: xx-large;
   }
 }
+@media screen and (max-width: 601px) {
+  .button {
+    width: 400px; height: 100px; font-size: xx-large;
+  }
+}
